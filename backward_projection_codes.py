@@ -1,6 +1,7 @@
 #Written by Wei Wang (wwangat@gmail.com)
 
 #For Projection Operator paper
+#Method developed by <Wei Wang, Siqin Cao, Frederick Fu Kit Sheong, Xuhui Huang>
 
 import numpy
 from msmbuilder.msm import MarkovStateModel
